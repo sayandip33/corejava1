@@ -1,1 +1,59 @@
-/bin/
+# === Java build ===
+.class
+.jar
+.war
+.ear
+.log
+
+# === Maven  Gradle ===
+target
+build
+out
+
+# === Eclipse ===
+.pydevproject
+.project
+.metadata
+.classpath
+.cproject
+.settings
+.loadpath
+.recommenders
+
+# === IntelliJ IDEA ===
+.idea
+.iml
+.iws
+.ipr
+out
+gen
+
+# === VS Code ===
+.vscode
+
+# === OS-specific ===
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# === Logs and temp ===
+.log
+.tmp
+.bak
+.swp
+.swo
+
+# === Compiled files ===
+.exe
+.dll
+.so
+.o
+.a
+
+# === Others (adjust as needed) ===
+.env
+node_modules
