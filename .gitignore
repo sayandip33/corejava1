@@ -57,3 +57,5 @@ desktop.ini
 # === Others (adjust as needed) ===
 .env
 node_modules
+# Ignore compiled binaries
+bin/
